@@ -2,7 +2,7 @@
 
 Hello, my name is Knyshov Vladislav. I am a novice developer, worked a lot with html/css/js, react/react-native. I already have a little experience in the IT field, but I do not plan to stop there.
 
-# Now I know
+## Now I know
 - JS, CSS & HTML (including semantic html & css3);
 - React, Redux, React-router, React-hooks & React-context;
 - JS libraries such as jQuery or Axios;
