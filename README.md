@@ -1,4 +1,4 @@
-# Vladislav Knyshow :rocket: @imnotoriginal
+# Vladislav Knyshow :rocket: @vladislavkn
 
 Hello, my name is Knyshov Vladislav. I am a novice developer, worked a lot with html/css/js, react/react-native. I already have a little experience in the IT field, but I do not plan to stop there.
 
