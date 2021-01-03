@@ -1,6 +1,6 @@
 # Vladislav Knyshow :rocket: @vladislavkn
 
-Hello, my name is Knyshov Vladislav. I am a novice developer, worked a lot with html/css/js, react/react-native. I already have a little experience in the IT field, but I do not plan to stay at this level for a long time.
+Hello, my name is Knyshov Vladislav. I am a novice developer, worked a lot with html/css/js, react/react-native. Now I'm learning hard to become a super web developer.
 
 ## :point_right: Skills:
 - :white_check_mark: JS, CSS & HTML (including semantic html & css3);
