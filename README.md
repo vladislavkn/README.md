@@ -1,15 +1,12 @@
-# Vladislav Knyshow :rocket: @vladislavkn
+## :rocket: Vladislav Knyshow  @vladislavkn
 
-Hello, my name is Knyshov Vladislav. I am a novice developer, worked a lot with html/css/js, react/react-native. Now I'm learning hard to become a super web developer.
+A student of the RTU MIREA, currently studying at Yandex IDS
 
-## :point_right: Skills:
-- :white_check_mark: JS, CSS & HTML (including semantic html & css3);
-- :white_check_mark: React, Redux, React-router, React-hooks & React-context;
-- :white_check_mark: JS libraries such as jQuery or Axios;
-- :white_check_mark: Vue, Vuex & Vue router;
-- :white_check_mark: NodeJs, Express & MongoDB (little experience);
-- :white_check_mark: PHP (enough to work with Wordpress);
-- :white_check_mark: Python (Flask);
-- :white_check_mark: I can find information online without distracting senior developers;
+### The technologies I use
+- :blue_book: Typescript
+- :atom_symbol: React, Redux, React-router
+- :test_tube: Jest, React Testing Library
+- :green_book: Vue, Vuex, Vue router
+- :desktop_computer: NodeJs, Expres, TypeORM
 
-:speaker: You can also check my [linkedIn profile](https://www.linkedin.com/in/vladislav-knyshov/)
+:speaker: You can also check my [linkedIn profile](https://www.linkedin.com/in/vladislav-knyshov/) or my [portfolio site](https://vladislavkn.vercel.app/)
