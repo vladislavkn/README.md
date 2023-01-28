@@ -1,6 +1,6 @@
 ## :rocket: Vladislav Knyshow  @vladislavkn
 
-A student of the RTU MIREA, currently studying at Yandex IDS
+A student of the RTU MIREA, currently working at Yandex (Yandex browser UI)
 
 ### The technologies I use
 - :blue_book: Typescript
