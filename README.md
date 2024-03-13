@@ -1,13 +1,10 @@
 ## :rocket: Vladislav Knyshow  @vladislavkn
 
-A student of the Technische Hochschule Ingolstadt. Open to work!
-
 ### The technologies I use
 - :blue_book: Typescript
-- :atom_symbol: React, Redux, React-router
-- :test_tube: Jest, React Testing Library
-- :green_book: Vue, Vuex, Vue router
-- :desktop_computer: NodeJs, Express, TypeORM
+- :atom_symbol: React, Redux, React-query
+- :green_book: Vue, Pinia
+- :desktop_computer: NodeJs, Express
 
 ### Stats
 ![Languages that I use: TypeScript, JavaScrript, Python & so on](https://github-readme-stats.vercel.app/api/top-langs?username=vladislavkn&show_icons=true&locale=en&layout=compact)
